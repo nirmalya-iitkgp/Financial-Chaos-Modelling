@@ -1,0 +1,6 @@
+{
+  "name": "Financial Chaos Modelling",
+  "description": "High-fidelity systemic risk sandbox and interactive regulator agent simulation. Model cascading feedback loops, flash crash microstructure, and macro-financial catastrophes across 5 simulated intervals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
